@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-Darkest
+Comment=A modern flat theme based on Numix-SX-FullDark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix-Darkest
+IconTheme=Numix
+MetacityTheme=Numix-Darkest
+ButtonLayout=:minimize,maximize,close
